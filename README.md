@@ -31,7 +31,7 @@ Here are some basic information about the dataset -
 * We also see that 83.8% of the dataset contains Benign traffic flow data points and 16.2% of the dataset contains Darknet traffic flow data points. This means that the dataset is imbalanced.
 
 
-**The detailed model and parameter description and performance measue, evluation and comparison are in the notebook.**
+**The detailed model and parameter description and performance measure, evaluation and comparison are in the notebook.**
 
 
 
